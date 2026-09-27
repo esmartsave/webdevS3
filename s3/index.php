@@ -86,34 +86,30 @@
                     </article>
 
                     <article class="card">
-                        <h3>Languages</h3>
+                        <h3>My learning</h3>
                         <p>
-                             Programming languages include:
+                             Programming tools used languages include:
                         </p>
                         <ul>
-                                <li>F# - F-sharp    </li>   
-                                <li>C# - C-sharp    </li>
-                                <li>F# - F-sharp    </li>
-                                <li>Javascript      </li>
+                                <li>Visual Studio   </li>   
+                                <li>Liver Server    </li>
+                                <li>GitHub Pages   </li> 
                         </ul>
                     </article>
 
                     <article class="card">
-                        <h3>Visual studio code</h3>
+                        <h3>What I have learned:</h3>
                         <p>
-                            It is very handy to code and connect to github. 
-                            It supports many languages for example:
+                            Publishing a website using GitHub and Visual Studio.
+                            It includes the following steps: 
                             <ol>
-                                <li>commit    </li>   
-                                <li>Comment message  </li>
-                                <li> push    </li>
-                                <li>Github pages</li>
+                                <li> Create a file in computer and open Visual Studio </li>   
+                                <li>Create files and folders, commit and push  </li>
+                                <li> Repository - settings, pages and main    </li>
+                                <li>Test the GitHub copied page</li>
                             </ol>
                         </p>
                     </article>
-
-
-
                 </div>
             </div>
         </section>
