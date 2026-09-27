@@ -3,8 +3,8 @@
     Centria Edu - Basics of Web Development
 
     Original author: Ville Heikkiniemi
-    Modified by: Student Name
-    Last modified: 2026-08-21
+    Modified by: Malloy Nyakwama
+    Last modified: 2026-09-27
 
     Based on the original course template.
 -->
