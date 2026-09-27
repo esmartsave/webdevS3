@@ -14,7 +14,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Ville Heikkiniemi">
+    <meta name="author" content="Malloy Nyakwama">
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="style.css">
     <title>Centria Edu | Basics of Web Development</title>
